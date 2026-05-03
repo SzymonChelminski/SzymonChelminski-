@@ -11,14 +11,11 @@ Computer Science student (4th semester) dedicated to building clean, scalable we
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills & Tools
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP` • `C/C++` • `SQL` |
-| **Frontend** | `React` • `Next.js` • `Angular` • `Tailwind CSS` • `HTML/CSS` |
-| **Backend** | `Node.js` • `FastAPI` • `Django` |
-| **Infrastructure** | `Docker` • `Git` • `VS Code` • `IntelliJ` |
+*   **Languages:** `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP` • `C/C++` • `SQL`
+*   **Technologies:** `React` • `Next.js` • `Node.js` • `Angular` • `Tailwind CSS`
+*   **Tools:** `Docker` • `Git` • `VS Code` • `IntelliJ`
 
 ---
 
