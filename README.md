@@ -12,30 +12,29 @@ Computer Science student (4th semester) dedicated to building clean, scalable we
 ---
 
 ### 🛠 Tech Stack
-*   **Languages**
-    *   `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP`
-    *   `C` • `C++` • `SQL`
-*   **Web Development**
-    *   `Next.js` • `React` • `Node.js` • `Angular` • `Tailwind CSS`
-*   **Tools & Environment**
-    *   `Docker` • `Git` • `VS Code` • `IntelliJ`
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP` • `C/C++` • `SQL` |
+| **Frontend** | `React` • `Next.js` • `Angular` • `Tailwind CSS` • `HTML/CSS` |
+| **Backend** | `Node.js` • `FastAPI` • `Django` |
+| **Infrastructure** | `Docker` • `Git` • `VS Code` • `IntelliJ` |
 
 ---
 
 ### 🚀 Featured Projects
 
-*   **⚡ FitLog**
-    *   Physical activity tracker built to optimize health and training.
-    *   Integrates with **ExerciseDB API** for personalized workout data.
-*   **🧠 AiMathics**
-    *   AI-powered tutor that explains math problems step-by-step.
-    *   Uses **OCR** for image recognition and **OpenAI** for logic processing.
-*   **🍎 MacroMaster**
-    *   Nutrition management tool for tracking calories and macros.
-    *   Powered by the **Edamam API** for accurate nutritional data.
-*   **📸 CropSnap**
-    *   Web-based image editing suite.
-    *   Uses external cloud APIs for high-quality photo manipulation.
+#### ⚡ FitLog
+> Physical activity tracker built to optimize health and training. Integrates with **ExerciseDB API** for personalized workout data.
+
+#### 🧠 AiMathics
+> AI-powered tutor that explains math problems step-by-step. Uses **OCR** for image recognition and **OpenAI** for logic processing.
+
+#### 🍎 MacroMaster
+> Nutrition management tool for tracking calories and macros. Powered by the **Edamam API** for accurate nutritional data.
+
+#### 📸 CropSnap
+> Web-based image editing suite using external cloud APIs for high-quality photo manipulation.
 
 ---
 
