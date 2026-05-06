@@ -37,8 +37,7 @@ Computer Science student (4th semester) dedicated to building clean, scalable we
 
 ### 🌱 Current Focus
 *   🔭 **Developing:** Scaling the backend for the **FitLog** ecosystem.
-*   📚 **Learning:** Advanced **Node.js** patterns and architecture.
-*   ☁️ **Exploring:** Cloud deployment and DevOps workflows.
+*   📚 **Learning:** **Node.js** patterns and architecture.
 
 ---
 
